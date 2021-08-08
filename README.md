@@ -17,7 +17,10 @@ Python 3.8
 
 # How to execute:
 Create the folder structure Main Folder-> python application(toxml and tojson files), input folder(store input files inside input folders), output folder(create an output folder for output files)
+
 Install requirements.txt
+
 Run .py file: tojson.py or toxml.py
-Command prompt run command python3 tojson.py or toxml.py
+
+Command prompt run command:  python3 tojson.py or python3 toxml.py
 
