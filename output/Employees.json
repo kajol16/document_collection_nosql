@@ -1,0 +1,1023 @@
+{
+    "Employees": [
+        {
+            "_id": "398172999",
+            "EMP_Fname": "Percy",
+            "EMP_Lname": "Liang",
+            "Dname": "HR",
+            "projects": [
+                {
+                    "Pnumber": 70,
+                    "Pname": "Advertizing",
+                    "Hours": 10.0
+                }
+            ]
+        },
+        {
+            "_id": "241625699",
+            "EMP_Fname": "Christina",
+            "EMP_Lname": "Hisel",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 4.0
+                }
+            ]
+        },
+        {
+            "_id": "214370999",
+            "EMP_Fname": "Richard",
+            "EMP_Lname": "Koelbel",
+            "Dname": "Administration",
+            "projects": [
+                {
+                    "Pnumber": 10,
+                    "Pname": "Computerization",
+                    "Hours": 35.0
+                }
+            ]
+        },
+        {
+            "_id": "913323708",
+            "EMP_Fname": "Joseph",
+            "EMP_Lname": "Kirkish",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 92,
+                    "Pname": "LaserPrinters",
+                    "Hours": 33.0
+                }
+            ]
+        },
+        {
+            "_id": "242916639",
+            "EMP_Fname": "Wilson",
+            "EMP_Lname": "Holmes",
+            "Dname": "Administration",
+            "projects": [
+                {
+                    "Pnumber": 4,
+                    "Pname": "EntityAnnot",
+                    "Hours": 5.0
+                },
+                {
+                    "Pnumber": 11,
+                    "Pname": "ConfigMgmt",
+                    "Hours": 20.0
+                }
+            ]
+        },
+        {
+            "_id": "101248268",
+            "EMP_Fname": "Lisa",
+            "EMP_Lname": "House",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 29,
+                    "Pname": "MotherBoard",
+                    "Hours": 10.0
+                }
+            ]
+        },
+        {
+            "_id": "444212096",
+            "EMP_Fname": "Gregory",
+            "EMP_Lname": "Laurie",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 63,
+                    "Pname": "Middleware",
+                    "Hours": 25.0
+                }
+            ]
+        },
+        {
+            "_id": "292740167",
+            "EMP_Fname": "Jisha",
+            "EMP_Lname": "Carpenter",
+            "Dname": "Headquarters",
+            "projects": [
+                {
+                    "Pnumber": 1,
+                    "Pname": "ProductX",
+                    "Hours": 25.0
+                }
+            ]
+        },
+        {
+            "_id": "343434344",
+            "EMP_Fname": "Jose",
+            "EMP_Lname": "Barbara",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 63,
+                    "Pname": "Middleware",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "112244668",
+            "EMP_Fname": "Juan",
+            "EMP_Lname": "Linda",
+            "Dname": "HR",
+            "projects": [
+                {
+                    "Pnumber": 95,
+                    "Pname": "Human1",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "444222666",
+            "EMP_Fname": "Kim",
+            "EMP_Lname": "Ted",
+            "Dname": "HR",
+            "projects": [
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 25.0
+                }
+            ]
+        },
+        {
+            "_id": "222333444",
+            "EMP_Fname": "John",
+            "EMP_Lname": "Ed",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 91,
+                    "Pname": "InkjetPrinters",
+                    "Hours": 10.0
+                }
+            ]
+        },
+        {
+            "_id": "666666613",
+            "EMP_Fname": "Red",
+            "EMP_Lname": "Bacher",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 30.0
+                },
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 10.0
+                },
+                {
+                    "Pnumber": 63,
+                    "Pname": "Middleware",
+                    "Hours": 10.0
+                }
+            ]
+        },
+        {
+            "_id": "122344668",
+            "EMP_Fname": "Johny",
+            "EMP_Lname": "Smith",
+            "Dname": "HR",
+            "projects": [
+                {
+                    "Pnumber": 3,
+                    "Pname": "ProductZ",
+                    "Hours": 10.0
+                },
+                {
+                    "Pnumber": 20,
+                    "Pname": "Reorganization",
+                    "Hours": 10.0
+                },
+                {
+                    "Pnumber": 30,
+                    "Pname": "Newbenefits",
+                    "Hours": 25.0
+                }
+            ]
+        },
+        {
+            "_id": "666666612",
+            "EMP_Fname": "Sammy",
+            "EMP_Lname": "Hall",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "666666611",
+            "EMP_Fname": "Carl",
+            "EMP_Lname": "Reedy",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "001614905",
+            "EMP_Fname": "Alex",
+            "EMP_Lname": "Yu",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 13,
+                    "Pname": "DataMining",
+                    "Hours": 18.0
+                }
+            ]
+        },
+        {
+            "_id": "666666610",
+            "EMP_Fname": "Naveen",
+            "EMP_Lname": "Drew",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "223344667",
+            "EMP_Fname": "Jennifer",
+            "EMP_Lname": "Joy",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 63,
+                    "Pname": "Middleware",
+                    "Hours": 20.0
+                }
+            ]
+        },
+        {
+            "_id": "666666609",
+            "EMP_Fname": "Helga",
+            "EMP_Lname": "Pataki",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 63,
+                    "Pname": "Middleware",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "666666608",
+            "EMP_Fname": "Arnold",
+            "EMP_Lname": "Head",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "666666607",
+            "EMP_Fname": "Gerald",
+            "EMP_Lname": "Small",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "254937381",
+            "EMP_Fname": "Megan",
+            "EMP_Lname": "Jones",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 70,
+                    "Pname": "Advertizing",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "666666604",
+            "EMP_Fname": "Billie",
+            "EMP_Lname": "King",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 91,
+                    "Pname": "InkjetPrinters",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "666666603",
+            "EMP_Fname": "Lyle",
+            "EMP_Lname": "Leslie",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 91,
+                    "Pname": "InkjetPrinters",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "673466642",
+            "EMP_Fname": "Penny",
+            "EMP_Lname": "Wolowitz",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 22,
+                    "Pname": "SearchEngine",
+                    "Hours": 4.0
+                }
+            ]
+        },
+        {
+            "_id": "444444401",
+            "EMP_Fname": "Bonnie",
+            "EMP_Lname": "Bays",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 91,
+                    "Pname": "InkjetPrinters",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "666666601",
+            "EMP_Fname": "Jill",
+            "EMP_Lname": "Jarvis",
+            "Dname": "HR",
+            "projects": [
+                {
+                    "Pnumber": 91,
+                    "Pname": "InkjetPrinters",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "636669233",
+            "EMP_Fname": "Michael",
+            "EMP_Lname": "Morgan",
+            "Dname": "Research",
+            "projects": [
+                {
+                    "Pnumber": 4,
+                    "Pname": "EntityAnnot",
+                    "Hours": 11.0
+                }
+            ]
+        },
+        {
+            "_id": "333333300",
+            "EMP_Fname": "Kim",
+            "EMP_Lname": "Grace",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 63,
+                    "Pname": "Middleware",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "666666606",
+            "EMP_Fname": "Ray",
+            "EMP_Lname": "King",
+            "Dname": "HR",
+            "projects": [
+                {
+                    "Pnumber": 91,
+                    "Pname": "InkjetPrinters",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "222222205",
+            "EMP_Fname": "Chris",
+            "EMP_Lname": "Carter",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "222222204",
+            "EMP_Fname": "Jenny",
+            "EMP_Lname": "Vos",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "111422203",
+            "EMP_Fname": "Cameron",
+            "EMP_Lname": "Thirteen",
+            "Dname": "Administration",
+            "projects": [
+                {
+                    "Pnumber": 4,
+                    "Pname": "EntityAnnot",
+                    "Hours": 45.0
+                }
+            ]
+        },
+        {
+            "_id": "666666605",
+            "EMP_Fname": "Jon",
+            "EMP_Lname": "Kramer",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 92,
+                    "Pname": "LaserPrinters",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "222222203",
+            "EMP_Fname": "Tom",
+            "EMP_Lname": "Brand",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "222222200",
+            "EMP_Fname": "Evan",
+            "EMP_Lname": "Wallis",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "111111103",
+            "EMP_Fname": "Brad",
+            "EMP_Lname": "Knight",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "349273344",
+            "EMP_Fname": "Leonard",
+            "EMP_Lname": "Moody",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 29,
+                    "Pname": "MotherBoard",
+                    "Hours": 15.0
+                }
+            ]
+        },
+        {
+            "_id": "111111102",
+            "EMP_Fname": "Justin",
+            "EMP_Lname": "Mark",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "987987987",
+            "EMP_Fname": "Ahmad",
+            "EMP_Lname": "Jabbar",
+            "Dname": "Administration",
+            "projects": [
+                {
+                    "Pnumber": 10,
+                    "Pname": "Computerization",
+                    "Hours": 35.0
+                },
+                {
+                    "Pnumber": 30,
+                    "Pname": "Newbenefits",
+                    "Hours": 5.0
+                }
+            ]
+        },
+        {
+            "_id": "111111101",
+            "EMP_Fname": "Jon",
+            "EMP_Lname": "Jones",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "453453453",
+            "EMP_Fname": "Joyce",
+            "EMP_Lname": "English",
+            "Dname": "Research",
+            "projects": [
+                {
+                    "Pnumber": 1,
+                    "Pname": "ProductX",
+                    "Hours": 20.0
+                },
+                {
+                    "Pnumber": 2,
+                    "Pname": "ProductY",
+                    "Hours": 20.0
+                }
+            ]
+        },
+        {
+            "_id": "666884444",
+            "EMP_Fname": "Ramesh",
+            "EMP_Lname": "Narayan",
+            "Dname": "Research",
+            "projects": [
+                {
+                    "Pnumber": 3,
+                    "Pname": "ProductZ",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "999887777",
+            "EMP_Fname": "Alicia",
+            "EMP_Lname": "Zelaya",
+            "Dname": "Administration",
+            "projects": [
+                {
+                    "Pnumber": 10,
+                    "Pname": "Computerization",
+                    "Hours": 10.0
+                },
+                {
+                    "Pnumber": 30,
+                    "Pname": "Newbenefits",
+                    "Hours": 30.0
+                }
+            ]
+        },
+        {
+            "_id": "555555501",
+            "EMP_Fname": "Nandita",
+            "EMP_Lname": "Ball",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 92,
+                    "Pname": "LaserPrinters",
+                    "Hours": 44.0
+                }
+            ]
+        },
+        {
+            "_id": "913353347",
+            "EMP_Fname": "Zach",
+            "EMP_Lname": "Geller",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 22,
+                    "Pname": "SearchEngine",
+                    "Hours": 30.0
+                }
+            ]
+        },
+        {
+            "_id": "444444403",
+            "EMP_Fname": "Sam",
+            "EMP_Lname": "Snedden",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 91,
+                    "Pname": "InkjetPrinters",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "555555500",
+            "EMP_Fname": "John",
+            "EMP_Lname": "James",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 92,
+                    "Pname": "LaserPrinters",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "432765098",
+            "EMP_Fname": "Cindy",
+            "EMP_Lname": "Burklow",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 63,
+                    "Pname": "Middleware",
+                    "Hours": 25.0
+                }
+            ]
+        },
+        {
+            "_id": "333333301",
+            "EMP_Fname": "Jeff",
+            "EMP_Lname": "Chase",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 63,
+                    "Pname": "Middleware",
+                    "Hours": 46.0
+                }
+            ]
+        },
+        {
+            "_id": "849934919",
+            "EMP_Fname": "Sheldon",
+            "EMP_Lname": "Cucuou",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 95,
+                    "Pname": "Human1",
+                    "Hours": 23.0
+                }
+            ]
+        },
+        {
+            "_id": "111111100",
+            "EMP_Fname": "Jared",
+            "EMP_Lname": "James",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "999999999",
+            "EMP_Fname": "Roy",
+            "EMP_Lname": "Lewallen",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 1,
+                    "Pname": "ProductX",
+                    "Hours": 2.0
+                },
+                {
+                    "Pnumber": 2,
+                    "Pname": "ProductY",
+                    "Hours": 2.0
+                },
+                {
+                    "Pnumber": 3,
+                    "Pname": "ProductZ",
+                    "Hours": 4.0
+                },
+                {
+                    "Pnumber": 10,
+                    "Pname": "Computerization",
+                    "Hours": 4.0
+                },
+                {
+                    "Pnumber": 20,
+                    "Pname": "Reorganization",
+                    "Hours": 4.0
+                },
+                {
+                    "Pnumber": 30,
+                    "Pname": "Newbenefits",
+                    "Hours": 4.0
+                },
+                {
+                    "Pnumber": 61,
+                    "Pname": "OperatingSystem",
+                    "Hours": 4.0
+                },
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 4.0
+                },
+                {
+                    "Pnumber": 63,
+                    "Pname": "Middleware",
+                    "Hours": 4.0
+                },
+                {
+                    "Pnumber": 70,
+                    "Pname": "Advertizing",
+                    "Hours": 2.0
+                },
+                {
+                    "Pnumber": 91,
+                    "Pname": "InkjetPrinters",
+                    "Hours": 2.0
+                },
+                {
+                    "Pnumber": 92,
+                    "Pname": "LaserPrinters",
+                    "Hours": 1.0
+                },
+                {
+                    "Pnumber": 95,
+                    "Pname": "Human1",
+                    "Hours": 3.0
+                }
+            ]
+        },
+        {
+            "_id": "123456789",
+            "EMP_Fname": "John",
+            "EMP_Lname": "Smith",
+            "Dname": "Research",
+            "projects": [
+                {
+                    "Pnumber": 1,
+                    "Pname": "ProductX",
+                    "Hours": 32.5
+                },
+                {
+                    "Pnumber": 2,
+                    "Pname": "ProductY",
+                    "Hours": 7.5
+                }
+            ]
+        },
+        {
+            "_id": "906218888",
+            "EMP_Fname": "James",
+            "EMP_Lname": "Miller",
+            "Dname": "Research",
+            "projects": [
+                {
+                    "Pnumber": 29,
+                    "Pname": "MotherBoard",
+                    "Hours": 15.0
+                }
+            ]
+        },
+        {
+            "_id": "987654321",
+            "EMP_Fname": "Jennifer",
+            "EMP_Lname": "Wallace",
+            "Dname": "Administration",
+            "projects": [
+                {
+                    "Pnumber": 20,
+                    "Pname": "Reorganization",
+                    "Hours": 15.0
+                },
+                {
+                    "Pnumber": 30,
+                    "Pname": "Newbenefits",
+                    "Hours": 20.0
+                }
+            ]
+        },
+        {
+            "_id": "242535609",
+            "EMP_Fname": "Erin",
+            "EMP_Lname": "Maxfield",
+            "Dname": "Sales",
+            "projects": [
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 20.0
+                },
+                {
+                    "Pnumber": 70,
+                    "Pname": "Advertizing",
+                    "Hours": 20.0
+                }
+            ]
+        },
+        {
+            "_id": "245239264",
+            "EMP_Fname": "Jake",
+            "EMP_Lname": "Sheen",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 10,
+                    "Pname": "Computerization",
+                    "Hours": 25.0
+                },
+                {
+                    "Pnumber": 11,
+                    "Pname": "ConfigMgmt",
+                    "Hours": 25.0
+                }
+            ]
+        },
+        {
+            "_id": "444444402",
+            "EMP_Fname": "Alec",
+            "EMP_Lname": "Best",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 91,
+                    "Pname": "InkjetPrinters",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "234234234",
+            "EMP_Fname": "willie",
+            "EMP_Lname": "Mary",
+            "Dname": "HR",
+            "projects": [
+                {
+                    "Pnumber": 95,
+                    "Pname": "Human1",
+                    "Hours": 35.0
+                }
+            ]
+        },
+        {
+            "_id": "444444400",
+            "EMP_Fname": "Alex",
+            "EMP_Lname": "Freed",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 91,
+                    "Pname": "InkjetPrinters",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "222222201",
+            "EMP_Fname": "Josh",
+            "EMP_Lname": "Zell",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 48.0
+                }
+            ]
+        },
+        {
+            "_id": "614370310",
+            "EMP_Fname": "Andrea",
+            "EMP_Lname": "Sondrini",
+            "Dname": "Research",
+            "projects": [
+                {
+                    "Pnumber": 3,
+                    "Pname": "ProductZ",
+                    "Hours": 45.0
+                }
+            ]
+        },
+        {
+            "_id": "333445555",
+            "EMP_Fname": "Franklin",
+            "EMP_Lname": "Wong",
+            "Dname": "Research",
+            "projects": [
+                {
+                    "Pnumber": 2,
+                    "Pname": "ProductY",
+                    "Hours": 10.0
+                },
+                {
+                    "Pnumber": 3,
+                    "Pname": "ProductZ",
+                    "Hours": 10.0
+                },
+                {
+                    "Pnumber": 10,
+                    "Pname": "Computerization",
+                    "Hours": 10.0
+                },
+                {
+                    "Pnumber": 20,
+                    "Pname": "Reorganization",
+                    "Hours": 10.0
+                }
+            ]
+        },
+        {
+            "_id": "222222202",
+            "EMP_Fname": "Andy",
+            "EMP_Lname": "Vile",
+            "Dname": "Hardware",
+            "projects": [
+                {
+                    "Pnumber": 62,
+                    "Pname": "DatabaseSystems",
+                    "Hours": 40.0
+                }
+            ]
+        },
+        {
+            "_id": "888665555",
+            "EMP_Fname": "James",
+            "EMP_Lname": "Borg",
+            "Dname": "Headquarters",
+            "projects": [
+                {
+                    "Pnumber": 20,
+                    "Pname": "Reorganization",
+                    "Hours": 5.0
+                }
+            ]
+        },
+        {
+            "_id": "202843824",
+            "EMP_Fname": "Debra",
+            "EMP_Lname": "Hall",
+            "Dname": "Software",
+            "projects": [
+                {
+                    "Pnumber": 11,
+                    "Pname": "ConfigMgmt",
+                    "Hours": 20.0
+                }
+            ]
+        }
+    ]
+}
