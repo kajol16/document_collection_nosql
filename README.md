@@ -10,6 +10,14 @@ The EMPLOYEES document collection will store a collection of EMPLOYEE documents.
 The DEPARTMENTS document collection will store a collection of DEPARTMENT documents. Each DEPARTMENT document will include the following data about each DEPARTMENT object (document): DNAME, MANAGER_LNAME (the last name of the employee who manages the department), MGR_START_DATE, and a collection of the employees who work for that department. This will be nested within the DEPARTMENT object (document) and will include for each employee: E_LNAME, E_FNAME, SALARY.
 
 
-# Language used: 
+# Programming Language used: 
 
 Python 3.8
+
+
+# How to execute:
+Create the folder structure Main Folder-> python application(toxml and tojson files), input folder(store input files inside input folders), output folder(create an output folder for output files)
+Install requirements.txt
+Run .py file: tojson.py or toxml.py
+Command prompt run command python3 tojson.py or toxml.py
+
