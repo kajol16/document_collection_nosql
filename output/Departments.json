@@ -1,0 +1,1147 @@
+{
+    "Departments": [
+        {
+            "_id": 8,
+            "Dname": "Sales",
+            "MGR_Lname": "James",
+            "MGR_Fname": "John",
+            "Mgr_start_date": "22-MAY-1978",
+            "employees": [
+                {
+                    "E_Lname": "Ball",
+                    "E_Fname": "Nandita",
+                    "Salary": 62000
+                },
+                {
+                    "E_Lname": "Ball",
+                    "E_Fname": "Nandita",
+                    "Salary": 62000
+                },
+                {
+                    "E_Lname": "Ball",
+                    "E_Fname": "Nandita",
+                    "Salary": 62000
+                },
+                {
+                    "E_Lname": "Ball",
+                    "E_Fname": "Nandita",
+                    "Salary": 62000
+                },
+                {
+                    "E_Lname": "Ball",
+                    "E_Fname": "Nandita",
+                    "Salary": 62000
+                },
+                {
+                    "E_Lname": "Ball",
+                    "E_Fname": "Nandita",
+                    "Salary": 62000
+                },
+                {
+                    "E_Lname": "Ball",
+                    "E_Fname": "Nandita",
+                    "Salary": 62000
+                },
+                {
+                    "E_Lname": "Ball",
+                    "E_Fname": "Nandita",
+                    "Salary": 62000
+                },
+                {
+                    "E_Lname": "Ball",
+                    "E_Fname": "Nandita",
+                    "Salary": 62000
+                },
+                {
+                    "E_Lname": "Maxfield",
+                    "E_Fname": "Erin",
+                    "Salary": 72000
+                },
+                {
+                    "E_Lname": "Maxfield",
+                    "E_Fname": "Erin",
+                    "Salary": 72000
+                },
+                {
+                    "E_Lname": "Maxfield",
+                    "E_Fname": "Erin",
+                    "Salary": 72000
+                },
+                {
+                    "E_Lname": "Maxfield",
+                    "E_Fname": "Erin",
+                    "Salary": 72000
+                },
+                {
+                    "E_Lname": "Maxfield",
+                    "E_Fname": "Erin",
+                    "Salary": 72000
+                },
+                {
+                    "E_Lname": "Maxfield",
+                    "E_Fname": "Erin",
+                    "Salary": 72000
+                },
+                {
+                    "E_Lname": "Maxfield",
+                    "E_Fname": "Erin",
+                    "Salary": 72000
+                },
+                {
+                    "E_Lname": "Maxfield",
+                    "E_Fname": "Erin",
+                    "Salary": 72000
+                },
+                {
+                    "E_Lname": "Maxfield",
+                    "E_Fname": "Erin",
+                    "Salary": 72000
+                },
+                {
+                    "E_Lname": "Holmes",
+                    "E_Fname": "Wilson",
+                    "Salary": 72500
+                },
+                {
+                    "E_Lname": "Holmes",
+                    "E_Fname": "Wilson",
+                    "Salary": 72500
+                },
+                {
+                    "E_Lname": "Holmes",
+                    "E_Fname": "Wilson",
+                    "Salary": 72500
+                },
+                {
+                    "E_Lname": "Holmes",
+                    "E_Fname": "Wilson",
+                    "Salary": 72500
+                },
+                {
+                    "E_Lname": "Holmes",
+                    "E_Fname": "Wilson",
+                    "Salary": 72500
+                },
+                {
+                    "E_Lname": "Holmes",
+                    "E_Fname": "Wilson",
+                    "Salary": 72500
+                },
+                {
+                    "E_Lname": "Holmes",
+                    "E_Fname": "Wilson",
+                    "Salary": 72500
+                },
+                {
+                    "E_Lname": "Holmes",
+                    "E_Fname": "Wilson",
+                    "Salary": 72500
+                },
+                {
+                    "E_Lname": "Holmes",
+                    "E_Fname": "Wilson",
+                    "Salary": 72500
+                }
+            ]
+        },
+        {
+            "_id": 9,
+            "Dname": "HR",
+            "MGR_Lname": "Linda",
+            "MGR_Fname": "Juan",
+            "Mgr_start_date": "22-MAY-1978",
+            "employees": [
+                {
+                    "E_Lname": "Mary",
+                    "E_Fname": "willie",
+                    "Salary": 12000
+                },
+                {
+                    "E_Lname": "Mary",
+                    "E_Fname": "willie",
+                    "Salary": 12000
+                },
+                {
+                    "E_Lname": "Mary",
+                    "E_Fname": "willie",
+                    "Salary": 12000
+                },
+                {
+                    "E_Lname": "Mary",
+                    "E_Fname": "willie",
+                    "Salary": 12000
+                },
+                {
+                    "E_Lname": "Mary",
+                    "E_Fname": "willie",
+                    "Salary": 12000
+                },
+                {
+                    "E_Lname": "Mary",
+                    "E_Fname": "willie",
+                    "Salary": 12000
+                },
+                {
+                    "E_Lname": "Mary",
+                    "E_Fname": "willie",
+                    "Salary": 12000
+                },
+                {
+                    "E_Lname": "Mary",
+                    "E_Fname": "willie",
+                    "Salary": 12000
+                },
+                {
+                    "E_Lname": "Mary",
+                    "E_Fname": "willie",
+                    "Salary": 12000
+                },
+                {
+                    "E_Lname": "Sheen",
+                    "E_Fname": "Jake",
+                    "Salary": 52000
+                },
+                {
+                    "E_Lname": "Sheen",
+                    "E_Fname": "Jake",
+                    "Salary": 52000
+                },
+                {
+                    "E_Lname": "Sheen",
+                    "E_Fname": "Jake",
+                    "Salary": 52000
+                },
+                {
+                    "E_Lname": "Sheen",
+                    "E_Fname": "Jake",
+                    "Salary": 52000
+                },
+                {
+                    "E_Lname": "Sheen",
+                    "E_Fname": "Jake",
+                    "Salary": 52000
+                },
+                {
+                    "E_Lname": "Sheen",
+                    "E_Fname": "Jake",
+                    "Salary": 52000
+                },
+                {
+                    "E_Lname": "Sheen",
+                    "E_Fname": "Jake",
+                    "Salary": 52000
+                },
+                {
+                    "E_Lname": "Sheen",
+                    "E_Fname": "Jake",
+                    "Salary": 52000
+                },
+                {
+                    "E_Lname": "Sheen",
+                    "E_Fname": "Jake",
+                    "Salary": 52000
+                }
+            ]
+        },
+        {
+            "_id": 7,
+            "Dname": "Hardware",
+            "MGR_Lname": "Freed",
+            "MGR_Fname": "Alex",
+            "Mgr_start_date": "22-MAY-1978",
+            "employees": [
+                {
+                    "E_Lname": "Bays",
+                    "E_Fname": "Bonnie",
+                    "Salary": 70000
+                },
+                {
+                    "E_Lname": "Bays",
+                    "E_Fname": "Bonnie",
+                    "Salary": 70000
+                },
+                {
+                    "E_Lname": "Bays",
+                    "E_Fname": "Bonnie",
+                    "Salary": 70000
+                },
+                {
+                    "E_Lname": "Bays",
+                    "E_Fname": "Bonnie",
+                    "Salary": 70000
+                },
+                {
+                    "E_Lname": "Bays",
+                    "E_Fname": "Bonnie",
+                    "Salary": 70000
+                },
+                {
+                    "E_Lname": "Bays",
+                    "E_Fname": "Bonnie",
+                    "Salary": 70000
+                },
+                {
+                    "E_Lname": "Bays",
+                    "E_Fname": "Bonnie",
+                    "Salary": 70000
+                },
+                {
+                    "E_Lname": "Bays",
+                    "E_Fname": "Bonnie",
+                    "Salary": 70000
+                },
+                {
+                    "E_Lname": "Bays",
+                    "E_Fname": "Bonnie",
+                    "Salary": 70000
+                },
+                {
+                    "E_Lname": "Best",
+                    "E_Fname": "Alec",
+                    "Salary": 60000
+                },
+                {
+                    "E_Lname": "Best",
+                    "E_Fname": "Alec",
+                    "Salary": 60000
+                },
+                {
+                    "E_Lname": "Best",
+                    "E_Fname": "Alec",
+                    "Salary": 60000
+                },
+                {
+                    "E_Lname": "Best",
+                    "E_Fname": "Alec",
+                    "Salary": 60000
+                },
+                {
+                    "E_Lname": "Best",
+                    "E_Fname": "Alec",
+                    "Salary": 60000
+                },
+                {
+                    "E_Lname": "Best",
+                    "E_Fname": "Alec",
+                    "Salary": 60000
+                },
+                {
+                    "E_Lname": "Best",
+                    "E_Fname": "Alec",
+                    "Salary": 60000
+                },
+                {
+                    "E_Lname": "Best",
+                    "E_Fname": "Alec",
+                    "Salary": 60000
+                },
+                {
+                    "E_Lname": "Best",
+                    "E_Fname": "Alec",
+                    "Salary": 60000
+                },
+                {
+                    "E_Lname": "Snedden",
+                    "E_Fname": "Sam",
+                    "Salary": 48000
+                },
+                {
+                    "E_Lname": "Snedden",
+                    "E_Fname": "Sam",
+                    "Salary": 48000
+                },
+                {
+                    "E_Lname": "Snedden",
+                    "E_Fname": "Sam",
+                    "Salary": 48000
+                },
+                {
+                    "E_Lname": "Snedden",
+                    "E_Fname": "Sam",
+                    "Salary": 48000
+                },
+                {
+                    "E_Lname": "Snedden",
+                    "E_Fname": "Sam",
+                    "Salary": 48000
+                },
+                {
+                    "E_Lname": "Snedden",
+                    "E_Fname": "Sam",
+                    "Salary": 48000
+                },
+                {
+                    "E_Lname": "Snedden",
+                    "E_Fname": "Sam",
+                    "Salary": 48000
+                },
+                {
+                    "E_Lname": "Snedden",
+                    "E_Fname": "Sam",
+                    "Salary": 48000
+                },
+                {
+                    "E_Lname": "Snedden",
+                    "E_Fname": "Sam",
+                    "Salary": 48000
+                },
+                {
+                    "E_Lname": "Barbara",
+                    "E_Fname": "Jose",
+                    "Salary": 35000
+                },
+                {
+                    "E_Lname": "Barbara",
+                    "E_Fname": "Jose",
+                    "Salary": 35000
+                },
+                {
+                    "E_Lname": "Barbara",
+                    "E_Fname": "Jose",
+                    "Salary": 35000
+                },
+                {
+                    "E_Lname": "Barbara",
+                    "E_Fname": "Jose",
+                    "Salary": 35000
+                },
+                {
+                    "E_Lname": "Barbara",
+                    "E_Fname": "Jose",
+                    "Salary": 35000
+                },
+                {
+                    "E_Lname": "Barbara",
+                    "E_Fname": "Jose",
+                    "Salary": 35000
+                },
+                {
+                    "E_Lname": "Barbara",
+                    "E_Fname": "Jose",
+                    "Salary": 35000
+                },
+                {
+                    "E_Lname": "Barbara",
+                    "E_Fname": "Jose",
+                    "Salary": 35000
+                },
+                {
+                    "E_Lname": "Barbara",
+                    "E_Fname": "Jose",
+                    "Salary": 35000
+                },
+                {
+                    "E_Lname": "Laurie",
+                    "E_Fname": "Gregory",
+                    "Salary": 90000
+                },
+                {
+                    "E_Lname": "Laurie",
+                    "E_Fname": "Gregory",
+                    "Salary": 90000
+                },
+                {
+                    "E_Lname": "Laurie",
+                    "E_Fname": "Gregory",
+                    "Salary": 90000
+                },
+                {
+                    "E_Lname": "Laurie",
+                    "E_Fname": "Gregory",
+                    "Salary": 90000
+                },
+                {
+                    "E_Lname": "Laurie",
+                    "E_Fname": "Gregory",
+                    "Salary": 90000
+                },
+                {
+                    "E_Lname": "Laurie",
+                    "E_Fname": "Gregory",
+                    "Salary": 90000
+                },
+                {
+                    "E_Lname": "Laurie",
+                    "E_Fname": "Gregory",
+                    "Salary": 90000
+                },
+                {
+                    "E_Lname": "Laurie",
+                    "E_Fname": "Gregory",
+                    "Salary": 90000
+                },
+                {
+                    "E_Lname": "Laurie",
+                    "E_Fname": "Gregory",
+                    "Salary": 90000
+                },
+                {
+                    "E_Lname": "Moody",
+                    "E_Fname": "Leonard",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Moody",
+                    "E_Fname": "Leonard",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Moody",
+                    "E_Fname": "Leonard",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Moody",
+                    "E_Fname": "Leonard",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Moody",
+                    "E_Fname": "Leonard",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Moody",
+                    "E_Fname": "Leonard",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Moody",
+                    "E_Fname": "Leonard",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Moody",
+                    "E_Fname": "Leonard",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Moody",
+                    "E_Fname": "Leonard",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Yu",
+                    "E_Fname": "Alex",
+                    "Salary": 50000
+                },
+                {
+                    "E_Lname": "Yu",
+                    "E_Fname": "Alex",
+                    "Salary": 50000
+                },
+                {
+                    "E_Lname": "Yu",
+                    "E_Fname": "Alex",
+                    "Salary": 50000
+                },
+                {
+                    "E_Lname": "Yu",
+                    "E_Fname": "Alex",
+                    "Salary": 50000
+                },
+                {
+                    "E_Lname": "Yu",
+                    "E_Fname": "Alex",
+                    "Salary": 50000
+                },
+                {
+                    "E_Lname": "Yu",
+                    "E_Fname": "Alex",
+                    "Salary": 50000
+                },
+                {
+                    "E_Lname": "Yu",
+                    "E_Fname": "Alex",
+                    "Salary": 50000
+                },
+                {
+                    "E_Lname": "Yu",
+                    "E_Fname": "Alex",
+                    "Salary": 50000
+                },
+                {
+                    "E_Lname": "Yu",
+                    "E_Fname": "Alex",
+                    "Salary": 50000
+                }
+            ]
+        },
+        {
+            "_id": 6,
+            "Dname": "Software",
+            "MGR_Lname": "James",
+            "MGR_Fname": "Jared",
+            "Mgr_start_date": "22-MAY-1978",
+            "employees": [
+                {
+                    "E_Lname": "Jones",
+                    "E_Fname": "Jon",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Jones",
+                    "E_Fname": "Jon",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Jones",
+                    "E_Fname": "Jon",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Jones",
+                    "E_Fname": "Jon",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Jones",
+                    "E_Fname": "Jon",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Jones",
+                    "E_Fname": "Jon",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Jones",
+                    "E_Fname": "Jon",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Jones",
+                    "E_Fname": "Jon",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Jones",
+                    "E_Fname": "Jon",
+                    "Salary": 45000
+                },
+                {
+                    "E_Lname": "Mark",
+                    "E_Fname": "Justin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Mark",
+                    "E_Fname": "Justin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Mark",
+                    "E_Fname": "Justin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Mark",
+                    "E_Fname": "Justin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Mark",
+                    "E_Fname": "Justin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Mark",
+                    "E_Fname": "Justin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Mark",
+                    "E_Fname": "Justin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Mark",
+                    "E_Fname": "Justin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Mark",
+                    "E_Fname": "Justin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Knight",
+                    "E_Fname": "Brad",
+                    "Salary": 44000
+                },
+                {
+                    "E_Lname": "Knight",
+                    "E_Fname": "Brad",
+                    "Salary": 44000
+                },
+                {
+                    "E_Lname": "Knight",
+                    "E_Fname": "Brad",
+                    "Salary": 44000
+                },
+                {
+                    "E_Lname": "Knight",
+                    "E_Fname": "Brad",
+                    "Salary": 44000
+                },
+                {
+                    "E_Lname": "Knight",
+                    "E_Fname": "Brad",
+                    "Salary": 44000
+                },
+                {
+                    "E_Lname": "Knight",
+                    "E_Fname": "Brad",
+                    "Salary": 44000
+                },
+                {
+                    "E_Lname": "Knight",
+                    "E_Fname": "Brad",
+                    "Salary": 44000
+                },
+                {
+                    "E_Lname": "Knight",
+                    "E_Fname": "Brad",
+                    "Salary": 44000
+                },
+                {
+                    "E_Lname": "Knight",
+                    "E_Fname": "Brad",
+                    "Salary": 44000
+                },
+                {
+                    "E_Lname": "Gupta",
+                    "E_Fname": "Sunil",
+                    "Salary": 80000
+                },
+                {
+                    "E_Lname": "Gupta",
+                    "E_Fname": "Sunil",
+                    "Salary": 80000
+                },
+                {
+                    "E_Lname": "Gupta",
+                    "E_Fname": "Sunil",
+                    "Salary": 80000
+                },
+                {
+                    "E_Lname": "Gupta",
+                    "E_Fname": "Sunil",
+                    "Salary": 80000
+                },
+                {
+                    "E_Lname": "Gupta",
+                    "E_Fname": "Sunil",
+                    "Salary": 80000
+                },
+                {
+                    "E_Lname": "Gupta",
+                    "E_Fname": "Sunil",
+                    "Salary": 80000
+                },
+                {
+                    "E_Lname": "Gupta",
+                    "E_Fname": "Sunil",
+                    "Salary": 80000
+                },
+                {
+                    "E_Lname": "Gupta",
+                    "E_Fname": "Sunil",
+                    "Salary": 80000
+                },
+                {
+                    "E_Lname": "Gupta",
+                    "E_Fname": "Sunil",
+                    "Salary": 80000
+                }
+            ]
+        },
+        {
+            "_id": 1,
+            "Dname": "Headquarters",
+            "MGR_Lname": "Borg",
+            "MGR_Fname": "James",
+            "Mgr_start_date": "22-MAY-1978",
+            "employees": [
+                {
+                    "E_Lname": "Wong",
+                    "E_Fname": "Franklin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Wong",
+                    "E_Fname": "Franklin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Wong",
+                    "E_Fname": "Franklin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Wong",
+                    "E_Fname": "Franklin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Wong",
+                    "E_Fname": "Franklin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Wong",
+                    "E_Fname": "Franklin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Wong",
+                    "E_Fname": "Franklin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Wong",
+                    "E_Fname": "Franklin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Wong",
+                    "E_Fname": "Franklin",
+                    "Salary": 40000
+                },
+                {
+                    "E_Lname": "Wallace",
+                    "E_Fname": "Jennifer",
+                    "Salary": 43000
+                },
+                {
+                    "E_Lname": "Wallace",
+                    "E_Fname": "Jennifer",
+                    "Salary": 43000
+                },
+                {
+                    "E_Lname": "Wallace",
+                    "E_Fname": "Jennifer",
+                    "Salary": 43000
+                },
+                {
+                    "E_Lname": "Wallace",
+                    "E_Fname": "Jennifer",
+                    "Salary": 43000
+                },
+                {
+                    "E_Lname": "Wallace",
+                    "E_Fname": "Jennifer",
+                    "Salary": 43000
+                },
+                {
+                    "E_Lname": "Wallace",
+                    "E_Fname": "Jennifer",
+                    "Salary": 43000
+                },
+                {
+                    "E_Lname": "Wallace",
+                    "E_Fname": "Jennifer",
+                    "Salary": 43000
+                },
+                {
+                    "E_Lname": "Wallace",
+                    "E_Fname": "Jennifer",
+                    "Salary": 43000
+                },
+                {
+                    "E_Lname": "Wallace",
+                    "E_Fname": "Jennifer",
+                    "Salary": 43000
+                },
+                {
+                    "E_Lname": "Cucuou",
+                    "E_Fname": "Sheldon",
+                    "Salary": 35500
+                },
+                {
+                    "E_Lname": "Cucuou",
+                    "E_Fname": "Sheldon",
+                    "Salary": 35500
+                },
+                {
+                    "E_Lname": "Cucuou",
+                    "E_Fname": "Sheldon",
+                    "Salary": 35500
+                },
+                {
+                    "E_Lname": "Cucuou",
+                    "E_Fname": "Sheldon",
+                    "Salary": 35500
+                },
+                {
+                    "E_Lname": "Cucuou",
+                    "E_Fname": "Sheldon",
+                    "Salary": 35500
+                },
+                {
+                    "E_Lname": "Cucuou",
+                    "E_Fname": "Sheldon",
+                    "Salary": 35500
+                },
+                {
+                    "E_Lname": "Cucuou",
+                    "E_Fname": "Sheldon",
+                    "Salary": 35500
+                },
+                {
+                    "E_Lname": "Cucuou",
+                    "E_Fname": "Sheldon",
+                    "Salary": 35500
+                },
+                {
+                    "E_Lname": "Cucuou",
+                    "E_Fname": "Sheldon",
+                    "Salary": 35500
+                }
+            ]
+        },
+        {
+            "_id": 4,
+            "Dname": "Administration",
+            "MGR_Lname": "Wallace",
+            "MGR_Fname": "Jennifer",
+            "Mgr_start_date": "22-MAY-1978",
+            "employees": [
+                {
+                    "E_Lname": "Zelaya",
+                    "E_Fname": "Alicia",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Zelaya",
+                    "E_Fname": "Alicia",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Zelaya",
+                    "E_Fname": "Alicia",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Zelaya",
+                    "E_Fname": "Alicia",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Zelaya",
+                    "E_Fname": "Alicia",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Zelaya",
+                    "E_Fname": "Alicia",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Zelaya",
+                    "E_Fname": "Alicia",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Zelaya",
+                    "E_Fname": "Alicia",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Zelaya",
+                    "E_Fname": "Alicia",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Jabbar",
+                    "E_Fname": "Ahmad",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Jabbar",
+                    "E_Fname": "Ahmad",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Jabbar",
+                    "E_Fname": "Ahmad",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Jabbar",
+                    "E_Fname": "Ahmad",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Jabbar",
+                    "E_Fname": "Ahmad",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Jabbar",
+                    "E_Fname": "Ahmad",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Jabbar",
+                    "E_Fname": "Ahmad",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Jabbar",
+                    "E_Fname": "Ahmad",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "Jabbar",
+                    "E_Fname": "Ahmad",
+                    "Salary": 25000
+                }
+            ]
+        },
+        {
+            "_id": 5,
+            "Dname": "Research",
+            "MGR_Lname": "Wong",
+            "MGR_Fname": "Franklin",
+            "Mgr_start_date": "22-MAY-1978",
+            "employees": [
+                {
+                    "E_Lname": "Smith",
+                    "E_Fname": "John",
+                    "Salary": 30000
+                },
+                {
+                    "E_Lname": "Smith",
+                    "E_Fname": "John",
+                    "Salary": 30000
+                },
+                {
+                    "E_Lname": "Smith",
+                    "E_Fname": "John",
+                    "Salary": 30000
+                },
+                {
+                    "E_Lname": "Smith",
+                    "E_Fname": "John",
+                    "Salary": 30000
+                },
+                {
+                    "E_Lname": "Smith",
+                    "E_Fname": "John",
+                    "Salary": 30000
+                },
+                {
+                    "E_Lname": "Smith",
+                    "E_Fname": "John",
+                    "Salary": 30000
+                },
+                {
+                    "E_Lname": "Smith",
+                    "E_Fname": "John",
+                    "Salary": 30000
+                },
+                {
+                    "E_Lname": "Smith",
+                    "E_Fname": "John",
+                    "Salary": 30000
+                },
+                {
+                    "E_Lname": "Smith",
+                    "E_Fname": "John",
+                    "Salary": 30000
+                },
+                {
+                    "E_Lname": "Narayan",
+                    "E_Fname": "Ramesh",
+                    "Salary": 38000
+                },
+                {
+                    "E_Lname": "Narayan",
+                    "E_Fname": "Ramesh",
+                    "Salary": 38000
+                },
+                {
+                    "E_Lname": "Narayan",
+                    "E_Fname": "Ramesh",
+                    "Salary": 38000
+                },
+                {
+                    "E_Lname": "Narayan",
+                    "E_Fname": "Ramesh",
+                    "Salary": 38000
+                },
+                {
+                    "E_Lname": "Narayan",
+                    "E_Fname": "Ramesh",
+                    "Salary": 38000
+                },
+                {
+                    "E_Lname": "Narayan",
+                    "E_Fname": "Ramesh",
+                    "Salary": 38000
+                },
+                {
+                    "E_Lname": "Narayan",
+                    "E_Fname": "Ramesh",
+                    "Salary": 38000
+                },
+                {
+                    "E_Lname": "Narayan",
+                    "E_Fname": "Ramesh",
+                    "Salary": 38000
+                },
+                {
+                    "E_Lname": "Narayan",
+                    "E_Fname": "Ramesh",
+                    "Salary": 38000
+                },
+                {
+                    "E_Lname": "English",
+                    "E_Fname": "Joyce",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "English",
+                    "E_Fname": "Joyce",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "English",
+                    "E_Fname": "Joyce",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "English",
+                    "E_Fname": "Joyce",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "English",
+                    "E_Fname": "Joyce",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "English",
+                    "E_Fname": "Joyce",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "English",
+                    "E_Fname": "Joyce",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "English",
+                    "E_Fname": "Joyce",
+                    "Salary": 25000
+                },
+                {
+                    "E_Lname": "English",
+                    "E_Fname": "Joyce",
+                    "Salary": 25000
+                }
+            ]
+        }
+    ]
+}
