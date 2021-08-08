@@ -1,4 +1,4 @@
-# document_collection_nosql
+# Document collection nosql
 Use MongoDB as an example of a document-oriented NOSQL system, and see how data is stored and queried in such a system. You will also learn about the difference between storing data in a flat (relational) format versus in a document (complex object) JSON or XML format.  
 
 The input to your program will be data files in flat relational format (text files in .csv format - comma separated values) for the COMPANY database from the textbook. The schemas for this data are the same as for the COMPANY database in the textbook() in chapters 5 and 6 for the tables DEPARTMENT, EMPLOYEE, PROJECT, and WORKS_ON. Design three document collections (complex objects) corresponding to this data and store each as a document collection in MongoDB:     
@@ -10,4 +10,6 @@ The EMPLOYEES document collection will store a collection of EMPLOYEE documents.
 The DEPARTMENTS document collection will store a collection of DEPARTMENT documents. Each DEPARTMENT document will include the following data about each DEPARTMENT object (document): DNAME, MANAGER_LNAME (the last name of the employee who manages the department), MGR_START_DATE, and a collection of the employees who work for that department. This will be nested within the DEPARTMENT object (document) and will include for each employee: E_LNAME, E_FNAME, SALARY.
 
 
-Language used: Python 3.8
+# Language used: 
+
+Python 3.8
