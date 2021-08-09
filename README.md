@@ -24,3 +24,10 @@ Run .py file: tojson.py or toxml.py
 
 Command prompt run command:  python3 tojson.py or python3 toxml.py
 
+# References:
+
+1.	https://docs.mongodb.com/manual/aggregation/
+2.	https://docs.mongodb.com/manual/crud/
+3.	https://pypi.org/project/dicttoxml/
+4.	https://www.mongodb.com/blog/post/getting-started-with-python-and-mongodb
+5.	https://haydnjmorris.medium.com/mongodb-aggregation-cheatsheet-a0afacefa81c
